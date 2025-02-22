@@ -1,0 +1,8 @@
+.app-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  margin-top: 60px;
+}
